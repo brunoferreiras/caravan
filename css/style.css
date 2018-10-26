@@ -11,6 +11,10 @@ body {
               0 4px 8px 0 rgba(0,0,0,.05);
 }
 
+.max-footer-button {
+  max-width: 140px;
+}
+
 #home-quote {
   background: url('../img/bg-quote.jpg') center center;
   background-size: cover;
